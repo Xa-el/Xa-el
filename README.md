@@ -1,16 +1,24 @@
-## Hi there 👋
+## About Me  
+Welcome to my profile! 👋  
 
-<!--
-**Xa-el/Xa-el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Xael Font**. I'm currently a student at the **University of Florida** pursuing a Bachelor of Science degree in **Computer Science** with aspirations of becoming a Software Engineer. Currently, I am working on web, mobile, and video game development projects. Outside of programming, I love **playing soccer ⚽** and **playing rythem games 🎮**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Interests  
+- Full-Stack Development 🌐
+- Open Source Projects 💡
+- Hackathons 🚀
+- Game Development 🎮   
+- Cloud and API Development ☁️  
+
+---
+
+## Contact Me  
+You can reach me at:  
+📧 **xael.j.font@gmail.com**  
+💻 **[LinkedIn](https://linkedin.com/in/xael-font)**  
+
+If you would like to chat with me directly, hit me up on Discord: **@lazzy_0001** 🟣
+
+Thanks for stopping by. Feel free to explore my projects!
