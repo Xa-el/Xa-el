@@ -1,7 +1,7 @@
 ## About Me  
 Welcome to my profile! 👋  
 
-My name is **Xael Font**. I'm currently a student at the **University of Florida** pursuing a Bachelor of Science degree in **Computer Science** with aspirations of becoming a Software Engineer. Currently, I am working on web, mobile, and video game development projects. Outside of programming, I love playing soccer ⚽ and playing rythem games 🎮. Feel free to contact me if you are interested in joining any of my projects!
+My name is **Xael Font**. I'm currently a student at the **University of Florida** pursuing a Bachelor of Science degree in **Computer Science** with aspirations of becoming a Software Engineer. Currently, I am working on web, mobile, and video game development projects. Outside of programming, I love playing soccer ⚽ and rythem games 🎮. Feel free to contact me if you are interested in joining any of my projects!
 
 ---
 
